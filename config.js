@@ -161,12 +161,12 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'RuTracker',
+					link: 'https://rutracker.org/forum/index.php',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'TIgruha',
+					link: 'https://itorrents-igruha.org/',
 				},
 				{
 					name: 'Trello',
