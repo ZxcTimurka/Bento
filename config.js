@@ -66,19 +66,19 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'YandexLyceum',
-			icon: 'trello',
+			icon: 'book-marked',
 			link: 'https://lms.yandex.ru/courses/1054/groups/8950',
 		},
 		{
 			id: '4',
 			name: 'Translator',
-			icon: 'calendar',
+			icon: 'languages',
 			link: 'https://translate.yandex.ru/',
 		},
 		{
 			id: '5',
 			name: 'VirusTotal',
-			icon: 'glasses',
+			icon: 'shield-plus',
 			link: 'https://www.virustotal.com/gui/home/upload',
 		},
 		{
