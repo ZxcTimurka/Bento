@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
+			name: 'VirusTotal',
 			icon: 'glasses',
-			link: 'https://reddit.com',
+			link: 'https://www.virustotal.com/gui/home/upload',
 		},
 		{
 			id: '6',
