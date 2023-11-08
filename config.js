@@ -65,15 +65,15 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'YandexLyceum',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://lms.yandex.ru/courses/1054/groups/8950',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
+			name: 'Translator',
 			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			link: 'https://translate.yandex.ru/',
 		},
 		{
 			id: '5',
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Youtube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://www.youtube.com/',
 		},
 	],
 
