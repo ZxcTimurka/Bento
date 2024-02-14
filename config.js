@@ -169,12 +169,12 @@ const CONFIG = {
 					link: 'https://itorrents-igruha.org/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'DeepSeek',
+					link: 'https://coder.deepseek.com/chat',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'AIGoogle',
+					link: 'https://aitestkitchen.withgoogle.com/',
 				},
 			],
 		},
