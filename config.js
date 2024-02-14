@@ -165,16 +165,16 @@ const CONFIG = {
 					link: 'https://rutracker.org/forum/index.php',
 				},
 				{
-					name: 'TIgruha',
-					link: 'https://itorrents-igruha.org/',
+					name: 'RUTracker',
+					link: 'https://rutracker.org/forum/index.php',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'DeepSeek',
+					link: 'https://coder.deepseek.com/chat',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'AIGoogle',
+					link: 'https://aitestkitchen.withgoogle.com/,
 				},
 			],
 		},
